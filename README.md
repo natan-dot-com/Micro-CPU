@@ -17,7 +17,7 @@ The arithmetic logic unit was built to operate with 4 bits size numbers, where t
 We can also point it's usage:
 * S0 dip switch controls the circuit's clock;
 * S9 dip switch controls the circuit's Master Clear command;
-* HEX5-HEX2 displays shows which memory address is being acessed at that time;
+* HEX5-HEX2 displays show which memory address is being acessed at that time;
 * HEX1 display shows what's inside of the first register;
 * HEX0 display shows what's inside of the second register;
-* L7-L0 LEDs shows the current count by the counter.
+* L7-L0 LEDs show the current count by the counter.
