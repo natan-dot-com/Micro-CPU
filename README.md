@@ -8,7 +8,7 @@ This project was made in a 3-people group, which it's autors were
 * João Guilherme Jarochinski Marinho.
 
 ## Circuit Overview
-![Screenshot](MicroCPU.png)
+![Screenshot](Micro_CPU.png)
 
 Doing this project was fundamental to learn some basics concepts about computer architecture, such as flip-flops, registers, counters and how a ROM memory works. 
 
