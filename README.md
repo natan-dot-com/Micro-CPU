@@ -12,7 +12,7 @@ This project was made in a 3-people group, which it's autors were
 
 Doing this project was fundamental to learn some basics concepts about computer architecture, such as flip-flops, registers, counters and how a ROM memory works. 
 
-The arithmetic logic unit was built to operate with 4 bits size numbers, where the circuit's entire logic is based from a sequence of 16 bits inside it's memory file. It's interesting that the counter (which controls the DMA \[Direct Memory Access\] sequentially) was made with an extension to jump to a specific memory address when a particular command is given.
+The arithmetic logic unit was built to operate with 4 bits size numbers, where the circuit's entire logic is based from a sequence of 16 bits inside it's memory file. It's interesting that the counter (which controls the memory addresses accesses sequentially) was made with an extension to jump to a specific memory address when a particular command is given.
 
 We can also point it's usage:
 * S0 dip switch controls the circuit's clock;
